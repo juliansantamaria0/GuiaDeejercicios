@@ -9,3 +9,6 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
   ## Instrucciones
   se enfocan en la seguridad, el respeto por las normas de tránsito y la convivencia con otros usuarios de la vía. Se debe usar equipo de protección como casco, respetar semáforos y señales, y mantener una actitud responsable en todo momento. 
 
+   ## Consejos
+la elección de la bicicleta adecuada hasta la práctica de técnicas de pedaleo eficientes y la comprensión de las normas de tránsito. 
+
