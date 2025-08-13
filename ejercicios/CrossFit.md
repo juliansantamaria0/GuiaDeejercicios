@@ -9,3 +9,6 @@ mejora de la fuerza, resistencia, flexibilidad y coordinación, así como la pé
 
  ## Instrucciones
  Se enfoca en movimientos funcionales como sentadillas, levantamiento de pesas, ejercicios gimnásticos y movimientos metabólicos, ejecutados a alta intensidad. 
+
+  ## Consejos
+enfocarse en la técnica correcta, escuchar a tu cuerpo, y progresar gradualmente.
