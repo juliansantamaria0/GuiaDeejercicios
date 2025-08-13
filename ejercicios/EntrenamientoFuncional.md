@@ -7,3 +7,6 @@ es un tipo de ejercicio que se enfoca en movimientos que imitan las actividades 
 
 ## Beneficios
 Mejora la fuerza, la movilidad, el equilibrio, la coordinación y la flexibilidad, al mismo tiempo que reduce el riesgo de lesiones y mejora la postura corporal. Además, puede ayudar a quemar grasa, acelerar el metabolismo y aumentar la energía. 
+
+## Instrucciones
+calentar adecuadamente, elegir ejercicios básicos y aumentar gradualmente la intensidad, siempre escuchando al cuerpo. 
