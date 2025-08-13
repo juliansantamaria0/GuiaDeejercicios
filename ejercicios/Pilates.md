@@ -8,3 +8,7 @@ iniciar con ejercicios básicos y progresar gradualmente, prestando atención a 
 
 ## Beneficios
  mejora de la fuerza muscular, flexibilidad, postura, equilibrio, coordinación y reducción del estrés.
+
+
+ ## Consejos
+enfocarse en la calidad del movimiento, la respiración adecuada y la alineación correcta.
