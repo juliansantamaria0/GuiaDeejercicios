@@ -10,3 +10,6 @@ Mejora la fuerza, la movilidad, el equilibrio, la coordinación y la flexibilida
 
 ## Instrucciones
 calentar adecuadamente, elegir ejercicios básicos y aumentar gradualmente la intensidad, siempre escuchando al cuerpo. 
+
+## Consejos
+establecer metas claras y diseñar una rutina equilibrada que incluya ejercicios de diferentes grupos musculares.
