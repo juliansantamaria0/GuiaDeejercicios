@@ -9,3 +9,8 @@ fortalecimiento muscular y óseo, la mejora de la salud cardiovascular y metabó
 
 ## Instrucciones
 comenzar con ejercicios con el peso corporal como sentadillas, flexiones y planchas, para luego incorporar pesas o máquinas. Es crucial calentar antes de cada sesión y estirar al finalizar
+
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
+- No sobrepasarse
