@@ -5,3 +5,7 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 
 ## Beneficios
  Mejora la salud cardiovascular, fortalece músculos y huesos, ayuda a controlar el peso, reduce el estrés y mejora el estado de ánimo, entre otros..
+
+  ## Instrucciones
+  se enfocan en la seguridad, el respeto por las normas de tránsito y la convivencia con otros usuarios de la vía. Se debe usar equipo de protección como casco, respetar semáforos y señales, y mantener una actitud responsable en todo momento. 
+
